@@ -4,6 +4,8 @@
   "description": "",
   "main": "breedFetcher.js",
   "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
     "request": "^2.88.0"
   },
   "devDependencies": {},
